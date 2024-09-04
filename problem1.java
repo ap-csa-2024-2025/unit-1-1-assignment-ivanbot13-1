@@ -2,8 +2,6 @@ public class problem1
 {
   public static void main(String[] args)
   {
-    System.out.println("Coding is fun!");
-    System.out.println("Coding is fun!");
-    System.out.println("Coding is fun!");
+    System.out.println("                                                                               ma fav player be kobe                                                     ");
   }
 }
